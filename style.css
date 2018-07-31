@@ -159,7 +159,7 @@ a {
 	font-family: 'Josefin Sans', sans-serif;
 	font-weight: 600;
 	font-style: italic;
-	color: #feca16;
+	color: #5e151d;
 	line-height: 28px;
 	text-transform: capitalize;
 }
@@ -246,7 +246,7 @@ a {
 	word-wrap: break-word;
 }
 .page-banner .banner-content .breadcrumb li.active {
-	color: #feca16;
+	color: #5e151d;
 }
 .page-banner .banner-content .breadcrumb li:first-of-type a {
 	margin-left: 0;
@@ -573,7 +573,7 @@ a {
 /* - Top Hedaer */
 .top-header {
 	border-bottom: 1px solid #e5e5e5;
-    border-top: 3px solid #feca16;   
+    border-top: 3px solid #5e151d;   
     padding: 19px 0 19px;    
 }
 
@@ -610,7 +610,7 @@ a {
     width: 42px;
 }
 .top-header .social ul li a:hover {
-	background-color: #feca16;
+	background-color: #5e151d;
 	color: #000;
 }
 
@@ -623,7 +623,7 @@ a {
 	text-decoration: none;
 }
 .top-header .logo-block a h3{
-	color: #29363e;
+	color: #141e42;
     display: block;
     font-family: 'Work Sans', sans-serif;
     font-size: 20px;
@@ -658,7 +658,7 @@ a {
     -o-transition: all 1s ease 0s;
 }
 .top-header .register a:hover {
-	background-color: #feca16;
+	background-color: #5e151d;
 	color: #000;
 }
 
@@ -670,7 +670,7 @@ a {
 	position: relative;
 }
 .navbar-fixed-top.menu-block .container {
-	border: 2px solid #feca16;
+	border: 2px solid #5e151d;
 	border-top: none;
 	max-width: 1170px;
 }
@@ -679,7 +679,7 @@ a {
 .menu-block a.user {
 	width: 82px;
 	height: 81px;
-	background-color: #feca16;
+	background-color: #5e151d;
 	display: inline-block;
 	text-align: center;
 	line-height: 100px;
@@ -728,7 +728,7 @@ a {
 	-o-transition: all 1s ease 0s;
 }
 .menu-search .sb-search-submit:hover i {
-	color: #29363e;
+	color: #141e42;
 }
 .menu-search .sb-search-input::-webkit-input-placeholder {
     color: #000;
@@ -825,7 +825,7 @@ a {
 
 /* ## Footer */
 .footer-main {	
-	background-color: #29363e;
+	background-color: #141e42;
 	padding-top: 74px;
 }
 .footer-main .row {
@@ -894,7 +894,7 @@ a {
 .footer-main .widget_customer_services ul li a:hover,
 .footer-main .widget_quick_links ul li a:hover  {
 	margin-left: 10px;
-	color: #feca16;
+	color: #5e151d;
 }
 .footer-main .widget.widget_quick_links{
 	padding-left: 4px;
@@ -910,7 +910,7 @@ a {
 	margin-bottom: 7px;
 }
 .footer-main .widget_contactus .contactinfo-box:hover i {
-	color: #feca16;
+	color: #5e151d;
 }
 .footer-main .widget_contactus .contactinfo-box:last-of-type {
 	margin-bottom: 0;
@@ -944,7 +944,7 @@ a {
 	-o-transition: all 1s ease 0s;
 }
 .footer-main .widget_contactus .contactinfo-box p a:hover {
-	color: #feca16;
+	color: #5e151d;
 	margin-left: 5px;
 }
 
@@ -978,7 +978,7 @@ a {
 	z-index: 1;
 }
 .footer-main .widget_newsletter .input-group-btn .btn {
-	background-color: #feca16;
+	background-color: #5e151d;
 	font-size: 18px;
 	text-transform: uppercase;
 	font-family: 'Hind', sans-serif;
@@ -1033,18 +1033,18 @@ a {
 	-o-transition: all 1s ease 0s;
 }
 .footer-main .widget_newsletter ul li a:hover {
-	background-color: #feca16;
+	background-color: #5e151d;
 	color: #fff;	
 	-ms-transform: rotate(360deg); /* IE 9 */
     -webkit-transform: rotate(360deg); /* Chrome, Safari, Opera */
     transform: rotate(360deg);
 }
 .footer-main .widget_newsletter a + .tooltip > .tooltip-inner {
-	background-color: #feca16;
+	background-color: #5e151d;
 	color: #fff;
 }
 .footer-main .widget_newsletter a + .tooltip > .tooltip-arrow { 
-	border-bottom-color: #feca16;	
+	border-bottom-color: #5e151d;	
 }
 /* - Footer Menu */
 .footer-menu  {
@@ -1084,7 +1084,7 @@ a {
 }
 .footer-menu .ow-navigation .nav.navbar-nav > li.active > a,
 .footer-menu .ow-navigation .nav.navbar-nav > li > a:hover {
-	color: #feca16;
+	color: #5e151d;
 }
 .footer-menu .ow-navigation .nav.navbar-nav > li:last-of-type > a {
 	padding-right: 0;
@@ -1181,7 +1181,7 @@ a {
 		padding-left: 0;
 	}
 	.footer-menu .ow-navigation .nav.navbar-nav > li > a:hover {
-		color: #feca16;
+		color: #5e151d;
 	}
 	.footer-menu .dropdown-menu > li > a {
 		color: #a4b0b6;
@@ -1196,7 +1196,7 @@ a {
 		padding-bottom: 5px;
 	}
 	.footer-menu .ow-navigation .nav.navbar-nav .dropdown-menu li:hover > a {
-		color: #feca16;
+		color: #5e151d;
 	}
 }
 
